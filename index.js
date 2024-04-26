@@ -1,7 +1,7 @@
 const aoijs = require("aoi.js");
 const bot = new aoijs.AoiClient({
   token:
-    "ODQyMjY5MDc5NjUyOTI1NDQw.G0zvLy.GoY3NaSsL5R11sles3h-9z-XM8iiyAHf0Oywu0",
+    "MTIyMTM4NDEwMDkwNTIyMjIwNQ.G0Wt6u.vuvdHHZUaVLPpjSzt33Rz4RDc3Tr1SK7BQpZNM",
   prefix: "!",
   intents: ["GUILDS", "GUILD_MESSAGES"],
   mobilePlatform: true,
